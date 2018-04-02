@@ -1,3 +1,4 @@
+# The same as codejam2017 Qualification, problem 3
 from math import floor, ceil
 
 T = int(input())
