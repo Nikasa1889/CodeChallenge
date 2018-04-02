@@ -1,6 +1,7 @@
 # CodeCompetition
-Counting down from 2/4/2018.
+Challenge to solve 1000 problems before 2020. Python 3 will be the main language.
 
+Counting down from 2/4/2018.
 ```
 ooooo..... .......... .......... .......... .......... .......... .......... .......... .......... ..........
 .......... .......... .......... .......... .......... .......... .......... .......... .......... ..........
