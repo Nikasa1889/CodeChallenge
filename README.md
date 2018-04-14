@@ -33,7 +33,7 @@ Problem Done:
      - D: CubicUFO
   - Round 1A:
      - A: WaffleChoppers
-     - B: BitParty (Done, not checked)
-     - C: EdgyBaking (Done, not checked)
+     - B: BitParty (Done, waiting to be checked)
+     - C: EdgyBaking (Done, waiting to be checked)
 - HashCode
   - Self-Driving Car 2018 (Rank ~100)
