@@ -24,7 +24,7 @@ Problem Done:
      - D: FashionShow (not finish)
   - Round 1A:
      - A: AlphabetCake
-     - B: Ratatouille
+     - B: Ratatouille (not finish)
 - CodeJam 2018
   - Qualification:
      - A: SavingTheUniverse
